@@ -1,0 +1,3 @@
+### Critters Index
+GET http://localhost:3000/critters.json 
+
